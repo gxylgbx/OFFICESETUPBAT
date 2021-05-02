@@ -18,3 +18,8 @@
 2.挂载OFFICE镜像（2016、2019、365镜像是一样的，区别只是许可证不同，所以理论上挂载哪一个都是通用的，更新OFFICE后许可证是什么版本就会是什么版本。但是WIN7只能安装2016镜像，毕竟是已经停止支持的系统，建议使用最新版WIN10）  
 3.将OFFICE部署工具和OfficeSetupBat放在同一目录运行即可
 
+![1](https://user-images.githubusercontent.com/61126745/116808315-b8c91100-ab6a-11eb-84fd-b6f274c16d90.png)
+
+![2](https://user-images.githubusercontent.com/61126745/116808324-bff01f00-ab6a-11eb-9e72-a92185e81a6e.png)
+
+![3](https://user-images.githubusercontent.com/61126745/116808328-c383a600-ab6a-11eb-8143-ded8d695e5d4.png)
