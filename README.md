@@ -14,7 +14,7 @@
 #### 使用方法
 
 1.去微软官网下载OFFICE部署工具  
-或（https://wws.lanzoux.com/iYqFRoq9vsd 密码:64s5）  
+或（https://wws.lanzoui.com/b02057hwj 密码:3ljh）  
 2.挂载OFFICE镜像（2016、2019、365镜像是一样的，区别只是许可证不同，所以理论上挂载哪一个都是通用的，更新OFFICE后许可证是什么版本就会是什么版本。但是WIN7只能安装2016镜像，毕竟是已经停止支持的系统，建议使用最新版WIN10）  
 3.将OFFICE部署工具和OfficeSetupBat放在同一目录运行OfficeSetupBat即可
 
@@ -23,3 +23,5 @@
 ![2](https://user-images.githubusercontent.com/61126745/116808324-bff01f00-ab6a-11eb-9e72-a92185e81a6e.png)
 
 ![3](https://user-images.githubusercontent.com/61126745/116808328-c383a600-ab6a-11eb-8143-ded8d695e5d4.png)
+
+#### [更新日志](https://github.com/swordnine/OfficeSetupBat/blob/main/changelog.md)
