@@ -24,7 +24,7 @@
 1. 去微软官网下载OFFICE部署工具，解压得到`setup.exe`  
 或（https://wws.lanzoui.com/b02057hwj 密码:3ljh）  
 1. 挂载OFFICE镜像（2016、2019、2021、365镜像几乎是一样的，所以理论上挂载哪一个都可以，2016镜像已经不更新了，所以没有包含2021。Windows 7只能使用2016镜像）  
-2. 将OFFICE部署工具`setup.exe`和`OfficeSetupBat.bat`放在同一目录运行`OfficeSetupBat.bat`即可  
+2. 将OFFICE部署工具`setup.exe`和`OfficeSetupBat.bat`放在同一目录运行`OfficeSetupBat.bat`  
 
 ***
 
